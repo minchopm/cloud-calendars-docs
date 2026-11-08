@@ -2,7 +2,7 @@
 
 Calendar views, account connections, weather and widgets for iPhone and iPad.
 
-[Official product website](https://www.cloud-calendars.com/) · [App Store listing](https://apps.apple.com/us/app/cloud-calendars-sync-widget/id6744690319)
+[Official product website](https://www.cloud-calendars.com/) · [App Store listing](https://apps.apple.com/us/app/cloud-calendars-sync-widget/id6744690319) · [Side-by-side comparisons](https://www.cloud-calendars.com/compare/) · [Guides & workflows](https://www.cloud-calendars.com/guides/) · [Full LLM reference (llms-full.txt)](https://www.cloud-calendars.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
 
 ## Who this is for
 
