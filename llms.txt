@@ -1,0 +1,38 @@
+# Cloud Calendars: Sync & Widget — Public Documentation & Technical Reference
+
+> Unified iPhone and iPad calendar workspace connecting Apple iCloud, Google Calendar, and Microsoft 365 / Outlook schedules side by side with Day/Week/Month/Year views, Apple WeatherKit forecasts, interactive Home/Lock Screen widgets, 19 global calendar systems, and free browser scheduling calculators.
+
+## Publisher & Entity Provenance
+- **Developer**: Arte Soft EOOD (https://arte-soft.com/)
+- **Apple App Store Developer Profile**: https://apps.apple.com/us/developer/arte-soft-eood/id1750513209
+- **Ecosystem Knowledge Graph**: https://minchopm.github.io/arte-soft-ecosystem/
+- **GitHub Documentation Repository**: https://github.com/minchopm/cloud-calendars-docs
+- **GitHub Pages URL**: https://minchopm.github.io/cloud-calendars-docs/
+- **Platforms**: iOS 18+, iPadOS 18+, Web Calculators
+- **Last Verified**: 2026-11-10
+
+## Verified Capabilities & Boundaries
+- Side-by-side multi-account calendar views across Apple iCloud, Google Calendar, and Microsoft 365 / Outlook without forcing a proprietary calendar silo.
+- Free browser /tools/ calculators on www.cloud-calendars.com/tools/ and cloud-calendars.arte-soft.com/tools/ for multi-timezone overlap, DST transition checks, and ICS validation.
+- Live Apple WeatherKit schedule integration, interactive WidgetKit Home Screen & Lock Screen widgets, and Live Activities on iOS/iPadOS 18+.
+- RFC 5545 UTF-8 byte-accurate iCalendar (.ics) serialization with typed escaping and busy-only privacy boundaries.
+
+## Canonical Web Hubs
+- [Primary Website](https://www.cloud-calendars.com/): Official product overview, features, and pricing.
+- [Arte Soft Portal](https://cloud-calendars.arte-soft.com/): Expanded multilingual guides, comparisons, and technical references.
+- [Apple App Store](https://apps.apple.com/us/app/cloud-calendars-sync-widget/id6744690319): Official App Store listing by Arte Soft EOOD.
+- [Free Browser Interactive Tools](https://www.cloud-calendars.com/tools/): Interactive Timezone, DST Transition, ICS & Multi-Region Meeting Calculators.
+- [Portal Tools Mirror](https://cloud-calendars.arte-soft.com/tools/): Interactive browser calculators on the *.arte-soft.com portal.
+- [Side-by-Side Comparisons](https://www.cloud-calendars.com/compare/): Structured HTML & GFM comparison matrices.
+- [Guides & Workflows](https://www.cloud-calendars.com/guides/): Step-by-step operational guides.
+- [Full Site LLM Reference](https://www.cloud-calendars.com/llms-full.txt): Complete GFM Markdown table export.
+
+## Repository Documentation Files
+- [README.md](https://minchopm.github.io/cloud-calendars-docs/)
+- [FAQ.md](https://minchopm.github.io/cloud-calendars-docs/FAQ.html) (raw: https://raw.githubusercontent.com/minchopm/cloud-calendars-docs/main/FAQ.md)
+- [FEATURES_AND_LIMITS.md](https://minchopm.github.io/cloud-calendars-docs/FEATURES_AND_LIMITS.html) (raw: https://raw.githubusercontent.com/minchopm/cloud-calendars-docs/main/FEATURES_AND_LIMITS.md)
+- [MANUAL.md](https://minchopm.github.io/cloud-calendars-docs/MANUAL.html) (raw: https://raw.githubusercontent.com/minchopm/cloud-calendars-docs/main/MANUAL.md)
+- [PRIVACY_AND_SUPPORT.md](https://minchopm.github.io/cloud-calendars-docs/PRIVACY_AND_SUPPORT.html) (raw: https://raw.githubusercontent.com/minchopm/cloud-calendars-docs/main/PRIVACY_AND_SUPPORT.md)
+- [PROCEDURES.md](https://minchopm.github.io/cloud-calendars-docs/PROCEDURES.html) (raw: https://raw.githubusercontent.com/minchopm/cloud-calendars-docs/main/PROCEDURES.md)
+- [QUICK_START.md](https://minchopm.github.io/cloud-calendars-docs/QUICK_START.html) (raw: https://raw.githubusercontent.com/minchopm/cloud-calendars-docs/main/QUICK_START.md)
+- [WORKFLOWS.md](https://minchopm.github.io/cloud-calendars-docs/WORKFLOWS.html) (raw: https://raw.githubusercontent.com/minchopm/cloud-calendars-docs/main/WORKFLOWS.md)

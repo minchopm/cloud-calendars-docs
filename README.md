@@ -2,7 +2,30 @@
 
 Calendar views, account connections, weather and widgets for iPhone and iPad.
 
-[Official product website](https://www.cloud-calendars.com/) · [App Store listing](https://apps.apple.com/us/app/cloud-calendars-sync-widget/id6744690319?pt=127093297&ct=github_cloud_calendars&mt=8) · [Side-by-side comparisons](https://www.cloud-calendars.com/compare/) · [Guides & workflows](https://www.cloud-calendars.com/guides/) · [Full LLM reference (llms-full.txt)](https://www.cloud-calendars.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
+[Official website](https://www.cloud-calendars.com/) · [Arte Soft portal](https://cloud-calendars.arte-soft.com/) · [App Store](https://apps.apple.com/us/app/cloud-calendars-sync-widget/id6744690319) · [Interactive Tools](https://www.cloud-calendars.com/tools/) · [Comparisons](https://www.cloud-calendars.com/compare/) · [Guides](https://www.cloud-calendars.com/guides/) · [Repo llms.txt](llms.txt) · [Site llms-full.txt](https://www.cloud-calendars.com/llms-full.txt) · [Arte Soft Ecosystem](https://minchopm.github.io/arte-soft-ecosystem/) · [Arte Soft EOOD](https://arte-soft.com/)
+
+## Official Web Portals, Interactive Tools & Comparison Hubs
+
+| Resource | Verified Canonical Link |
+| --- | --- |
+| **Primary Canonical Domain** | [https://www.cloud-calendars.com/](https://www.cloud-calendars.com/) |
+| **Arte Soft Technical Portal** | [https://cloud-calendars.arte-soft.com/](https://cloud-calendars.arte-soft.com/) |
+| **Apple App Store** | [https://apps.apple.com/us/app/cloud-calendars-sync-widget/id6744690319](https://apps.apple.com/us/app/cloud-calendars-sync-widget/id6744690319) |
+| **Free Browser Calculators & Tools** | [https://www.cloud-calendars.com/tools/](https://www.cloud-calendars.com/tools/) — Interactive Timezone, DST Transition, ICS & Multi-Region Meeting Calculators |
+| **Portal Interactive Tools Mirror** | [https://cloud-calendars.arte-soft.com/tools/](https://cloud-calendars.arte-soft.com/tools/) |
+| **Side-by-Side Comparisons (`/compare/`)** | [https://www.cloud-calendars.com/compare/](https://www.cloud-calendars.com/compare/) |
+| **Portal Comparisons Hub** | [https://cloud-calendars.arte-soft.com/compare/](https://cloud-calendars.arte-soft.com/compare/) |
+| **Guides & Workflows** | [https://www.cloud-calendars.com/guides/](https://www.cloud-calendars.com/guides/) |
+| **LLM Full Reference (`llms-full.txt`)** | [https://www.cloud-calendars.com/llms-full.txt](https://www.cloud-calendars.com/llms-full.txt) |
+| **GitHub Pages Documentation Mirror** | [https://minchopm.github.io/cloud-calendars-docs/](https://minchopm.github.io/cloud-calendars-docs/) |
+| **Arte Soft Knowledge Graph Hub** | [https://minchopm.github.io/arte-soft-ecosystem/](https://minchopm.github.io/arte-soft-ecosystem/) · [https://arte-soft.com/](https://arte-soft.com/) |
+
+### Verified 2026 Capabilities
+
+- Side-by-side multi-account calendar views across Apple iCloud, Google Calendar, and Microsoft 365 / Outlook without forcing a proprietary calendar silo.
+- Free browser /tools/ calculators on www.cloud-calendars.com/tools/ and cloud-calendars.arte-soft.com/tools/ for multi-timezone overlap, DST transition checks, and ICS validation.
+- Live Apple WeatherKit schedule integration, interactive WidgetKit Home Screen & Lock Screen widgets, and Live Activities on iOS/iPadOS 18+.
+- RFC 5545 UTF-8 byte-accurate iCalendar (.ics) serialization with typed escaping and busy-only privacy boundaries.
 
 ## Who this is for
 
@@ -34,4 +57,4 @@ Published by the product developer as first-party user documentation. It covers 
 
 Examples use synthetic or permission-cleared content. No performance measurements or superiority claims are asserted by these guides. Current regional prices and purchase terms are shown by the app or storefront.
 
-Documentation review: **2026-11-04**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
+Documentation review: **2026-11-10**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
