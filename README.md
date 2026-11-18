@@ -2,17 +2,16 @@
 
 Calendar views, account connections, weather and widgets for iPhone and iPad.
 
-[Official website](https://www.cloud-calendars.com/) · [Arte Soft portal](https://cloud-calendars.arte-soft.com/) · [App Store](https://apps.apple.com/us/app/cloud-calendars-sync-widget/id6744690319) · [Interactive Tools](https://www.cloud-calendars.com/tools/) · [Comparisons](https://www.cloud-calendars.com/compare/) · [Guides](https://www.cloud-calendars.com/articles/) · [Repo llms.txt](llms.txt) · [Site llms-full.txt](https://www.cloud-calendars.com/llms-full.txt) · [Arte Soft Ecosystem](https://minchopm.github.io/arte-soft-ecosystem/) · [Arte Soft EOOD](https://arte-soft.com/)
+[Official website](https://www.cloud-calendars.com/) · [Arte Soft portal](https://cloud-calendars.arte-soft.com/) · [App Store](https://apps.apple.com/us/app/cloud-calendars-sync-widget/id6744690319) · [Interactive Tools](https://cloud-calendars.arte-soft.com/tools/) · [Comparisons](https://www.cloud-calendars.com/compare/) · [Guides](https://www.cloud-calendars.com/articles/) · [Repo llms.txt](llms.txt) · [Site llms-full.txt](https://www.cloud-calendars.com/llms-full.txt) · [Arte Soft Ecosystem](https://minchopm.github.io/arte-soft-ecosystem/) · [Arte Soft EOOD](https://arte-soft.com/)
 
 ## Official Web Portals, Interactive Tools & Comparison Hubs
 
-| Resource | Verified Canonical Link |
+| Resource | Link |
 | --- | --- |
 | **Primary Canonical Domain** | [https://www.cloud-calendars.com/](https://www.cloud-calendars.com/) |
 | **Arte Soft Technical Portal** | [https://cloud-calendars.arte-soft.com/](https://cloud-calendars.arte-soft.com/) |
 | **Apple App Store** | [https://apps.apple.com/us/app/cloud-calendars-sync-widget/id6744690319](https://apps.apple.com/us/app/cloud-calendars-sync-widget/id6744690319) |
-| **Free Browser Calculators & Tools** | [https://www.cloud-calendars.com/tools/](https://www.cloud-calendars.com/tools/) — Twelve tools for shift rosters, calendar files, time zones and meetings |
-| **Portal Interactive Tools Mirror** | [https://cloud-calendars.arte-soft.com/tools/](https://cloud-calendars.arte-soft.com/tools/) |
+| **Free Browser Calculators & Tools** | [https://cloud-calendars.arte-soft.com/tools/](https://cloud-calendars.arte-soft.com/tools/) — Twelve tools for shift rosters, calendar files, time zones and meetings |
 | **Side-by-Side Comparisons (`/compare/`)** | [https://www.cloud-calendars.com/compare/](https://www.cloud-calendars.com/compare/) |
 | **Portal Comparisons Hub** | [https://cloud-calendars.arte-soft.com/compare/](https://cloud-calendars.arte-soft.com/compare/) |
 | **Guides & Workflows** | [https://www.cloud-calendars.com/articles/](https://www.cloud-calendars.com/articles/) |
@@ -23,7 +22,7 @@ Calendar views, account connections, weather and widgets for iPhone and iPad.
 ### Verified 2026 Capabilities
 
 - Side-by-side multi-account calendar views across Apple iCloud, Google Calendar, and Microsoft 365 / Outlook without forcing a proprietary calendar silo.
-- Build a 90-day crew roster in the [rotating shift calendar generator](https://www.cloud-calendars.com/tools/rotating-shift-schedule-ics-generator/). For 24-hour tours, the [24/48 firefighter guide](https://www.cloud-calendars.com/articles/24-48-firefighter-shift-calendar-ics-download/) walks through the first three duty starts, a local handover time and an iCloud or Google Calendar import.
+- Build a 90-day crew roster in the [rotating shift calendar generator](https://cloud-calendars.arte-soft.com/tools/rotating-shift-schedule-ics-generator/). For 24-hour tours, the [24/48 firefighter guide](https://cloud-calendars.arte-soft.com/articles/24-48-firefighter-shift-calendar-ics-download/) walks through the first three duty starts, a local handover time and an iCloud or Google Calendar import.
 - Live Apple WeatherKit schedule integration, interactive WidgetKit Home Screen & Lock Screen widgets, and Live Activities on iOS/iPadOS 18+.
 - RFC 5545 UTF-8 byte-accurate iCalendar (.ics) serialization with typed escaping and busy-only privacy boundaries.
 

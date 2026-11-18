@@ -435,22 +435,24 @@ Requires iOS / iPadOS 18.0 or later on iPhone and iPad. Check current local subs
 
 ## Free calendar tools
 
-- [Rotating shift calendar generator](https://www.cloud-calendars.com/tools/rotating-shift-schedule-ics-generator/) — Build a 90-day Pitman 2-2-3, four-on/four-off or 24/48 firefighter calendar. Preview your duty dates and download an ICS file for Apple Calendar, Google Calendar or Outlook.
-- [ICS file viewer and validator](https://www.cloud-calendars.com/tools/ics-file-viewer-and-validator/) — Open an iCalendar file or paste its text to see event titles, start dates and recurrence rules. Check the file structure before you import it.
-- [Merge ICS files and remove duplicate events](https://www.cloud-calendars.com/tools/ics-calendar-merger-and-deduplicator/) — Combine calendars in your browser. Match events by UID and recurrence ID, keep timezone definitions, and download one ICS file.
-- [iCalendar recurrence rule generator](https://www.cloud-calendars.com/tools/rrule-recurrence-rule-generator/) — Build an RRULE for a repeating event. Try every other week on Monday, or the last Friday of each month.
-- [Three-city meeting time planner](https://www.cloud-calendars.com/tools/multi-timezone-meeting-overlap-planner/) — Find a meeting hour that falls between 08:00 and 18:00 in three cities. Choose a date to account for daylight-saving changes.
-- [Working days between two dates](https://www.cloud-calendars.com/tools/business-working-days-date-calculator/) — Count weekdays and weekends, including both dates. Public holidays are counted as ordinary weekdays.
-- [Add to calendar link and ICS generator](https://www.cloud-calendars.com/tools/add-to-calendar-link-and-ics-generator/) — Create an event in UTC and get a Google Calendar link, an Outlook.com link and an ICS download for your invitation.
-- [ISO week number calculator](https://www.cloud-calendars.com/tools/iso-8601-week-number-calendar-lookup/) — Look up the ISO week and week-year for any date. ISO weeks start on Monday, and week 1 contains the first Thursday.
-- [Daily time-blocking calendar builder](https://www.cloud-calendars.com/tools/time-blocking-daily-schedule-builder/) — Turn a list of time blocks into calendar events for one day. Enter local start and end times, give each block a name, and download the ICS file.
-- [Meeting cost calculator](https://www.cloud-calendars.com/tools/meeting-cost-and-burn-rate-calculator/) — Estimate the staff cost of one meeting and of holding it weekly for 50 weeks, using headcount, duration and hourly cost.
-- [Five-field cron schedule explainer](https://www.cloud-calendars.com/tools/cron-expression-to-schedule-explainer/) — Read a five-field cron expression field by field. Check weekdays, ranges and step values before you schedule a job.
-- [Meeting availability in two time zones](https://www.cloud-calendars.com/tools/plain-text-availability-slot-formatter/) — Turn a UTC date and time into a plain-text email line showing both local dates, times and time zones.
+[Browse all twelve tools on the Arte Soft product portal.](https://cloud-calendars.arte-soft.com/tools/)
+
+- [Rotating shift calendar generator](https://cloud-calendars.arte-soft.com/tools/rotating-shift-schedule-ics-generator/) — Build a 90-day Pitman 2-2-3, four-on/four-off or 24/48 firefighter calendar. Preview your duty dates and download an ICS file for Apple Calendar, Google Calendar or Outlook.
+- [ICS file viewer and validator](https://cloud-calendars.arte-soft.com/tools/ics-file-viewer-and-validator/) — Open an iCalendar file or paste its text to see event titles, start dates and recurrence rules. Check the file structure before you import it.
+- [Merge ICS files and remove duplicate events](https://cloud-calendars.arte-soft.com/tools/ics-calendar-merger-and-deduplicator/) — Combine calendars in your browser. Match events by UID and recurrence ID, keep timezone definitions, and download one ICS file.
+- [iCalendar recurrence rule generator](https://cloud-calendars.arte-soft.com/tools/rrule-recurrence-rule-generator/) — Build an RRULE for a repeating event. Try every other week on Monday, or the last Friday of each month.
+- [Three-city meeting time planner](https://cloud-calendars.arte-soft.com/tools/multi-timezone-meeting-overlap-planner/) — Find a meeting hour that falls between 08:00 and 18:00 in three cities. Choose a date to account for daylight-saving changes.
+- [Working days between two dates](https://cloud-calendars.arte-soft.com/tools/business-working-days-date-calculator/) — Count weekdays and weekends, including both dates. Public holidays are counted as ordinary weekdays.
+- [Add to calendar link and ICS generator](https://cloud-calendars.arte-soft.com/tools/add-to-calendar-link-and-ics-generator/) — Create an event in UTC and get a Google Calendar link, an Outlook.com link and an ICS download for your invitation.
+- [ISO week number calculator](https://cloud-calendars.arte-soft.com/tools/iso-8601-week-number-calendar-lookup/) — Look up the ISO week and week-year for any date. ISO weeks start on Monday, and week 1 contains the first Thursday.
+- [Daily time-blocking calendar builder](https://cloud-calendars.arte-soft.com/tools/time-blocking-daily-schedule-builder/) — Turn a list of time blocks into calendar events for one day. Enter local start and end times, give each block a name, and download the ICS file.
+- [Meeting cost calculator](https://cloud-calendars.arte-soft.com/tools/meeting-cost-and-burn-rate-calculator/) — Estimate the staff cost of one meeting and of holding it weekly for 50 weeks, using headcount, duration and hourly cost.
+- [Five-field cron schedule explainer](https://cloud-calendars.arte-soft.com/tools/cron-expression-to-schedule-explainer/) — Read a five-field cron expression field by field. Check weekdays, ranges and step values before you schedule a job.
+- [Meeting availability in two time zones](https://cloud-calendars.arte-soft.com/tools/plain-text-availability-slot-formatter/) — Turn a UTC date and time into a plain-text email line showing both local dates, times and time zones.
 
 ## Shift calendars, widgets and calendar app comparisons
 
-- [24/48 firefighter roster with a local handover and ICS export](https://www.cloud-calendars.com/articles/24-48-firefighter-shift-calendar-ics-download/)
+- [24/48 firefighter roster with a local handover and ICS export](https://cloud-calendars.arte-soft.com/articles/24-48-firefighter-shift-calendar-ics-download/)
 - [Kelly days in a 24/48 rotation](https://www.cloud-calendars.com/articles/firefighter-24-48-kelly-day-calendar-pattern/)
 - [Pitman 2-2-3 schedule setup](https://www.cloud-calendars.com/articles/pitman-2-2-3-shift-schedule-calendar-setup/)
 - [DuPont 28-day rotation](https://www.cloud-calendars.com/articles/dupont-28-day-rotating-shift-calendar-cycle/)
