@@ -433,45 +433,27 @@ Requires iOS / iPadOS 18.0 or later on iPhone and iPad. Check current local subs
 - https://www.cloud-calendars.com/pt/articles/who-can-see-what-in-google-calendar/
 - https://www.cloud-calendars.com/pt/articles/why-a-shared-calendar-does-not-appear/
 
-## Free Zero-Upload Browser Calendar Tools (`/tools/`)
+## Free calendar tools
 
-- [.ICS Calendar File Viewer & RFC 5545 Validator](https://www.cloud-calendars.com/tools/ics-file-viewer-and-validator/): Drop or paste any .ICS iCalendar file to preview events, check DTSTART/DTEND timezones, and spot RFC 5545 errors 100% locally in your browser.
-- [Interactive RFC 5545 RRULE Repeating Event Builder](https://www.cloud-calendars.com/tools/rrule-recurrence-rule-generator/): Build valid iCalendar RFC 5545 RRULE strings for biweekly, nth-weekday, last-Friday, or fixed-count repeating calendar events.
-- [3-City Global Timezone Meeting Overlap Finder](https://www.cloud-calendars.com/tools/multi-timezone-meeting-overlap-planner/): Find fair 08:00–18:00 working-hour meeting overlaps across any 3 global timezones instantly using native browser IANA timezone rules.
-- [Business & Working Days Between Two Dates Calculator](https://www.cloud-calendars.com/tools/business-working-days-date-calculator/): Count exact Monday–Friday working days between two dates—or add 30, 45, or 60 business days to a start date for contracts and sprints.
-- [Google, Outlook & .ICS 'Add to Calendar' Link Generator](https://www.cloud-calendars.com/tools/add-to-calendar-link-and-ics-generator/): Generate instant Google Calendar, Microsoft Outlook/365, and downloadable .ICS event links for newsletters, webinars, and invites.
-- [Client-Side .ICS File Merger & Duplicate UID Cleaner](https://www.cloud-calendars.com/tools/ics-calendar-merger-and-deduplicator/): Select 2 or more .ICS files to merge all VEVENT entries into one clean .ICS file while automatically removing duplicate UIDs locally.
-- [ISO-8601 Calendar Week Number (CW01–CW53) Lookup & Converter](https://www.cloud-calendars.com/tools/iso-8601-week-number-calendar-lookup/): Check today's ISO-8601 week number (Monday start) vs US Sunday-start week number and convert any date to CW01–CW53 instantly.
-- [Visual Daily Time-Blocking & Deep-Work .ICS Builder](https://www.cloud-calendars.com/tools/time-blocking-daily-schedule-builder/): Plan Deep Work, Meetings, and Admin time blocks visually for today or tomorrow and export straight to Apple, Google, or Outlook Calendar (.ICS).
-- [Recurring Meeting Salary Cost & Annual Burn-Rate Calculator](https://www.cloud-calendars.com/tools/meeting-cost-and-burn-rate-calculator/): See the real dollar cost of a 30-min or 60-min recurring meeting across attendees, loaded hourly rates, and 50 working weeks per year.
-- [2-2-3 Pitman, 4-On/4-Off & 24/48 Shift Roster .ICS Generator](https://www.cloud-calendars.com/tools/rotating-shift-schedule-ics-generator/): Generate 90 days of 2-2-3 Pitman, 4-On/4-Off, or 24/48 firefighter shift events as a standard .ICS file for iPhone, Google & Outlook.
-- [Cron Expression to Plain-English Schedule Explainer](https://www.cloud-calendars.com/tools/cron-expression-to-schedule-explainer/): Translate 5-field cron schedules (like `0 2 * * 0` or `*/15 9-17 * * 1-5`) into plain English for team maintenance calendars.
-- [Executive Plain-Text Email Availability Formatter (Multi-TZ)](https://www.cloud-calendars.com/tools/plain-text-availability-slot-formatter/): Convert proposed meeting slots into crisp, copy-ready plain-text bullets showing both your timezone and your guest's timezone.
+- [Rotating shift calendar generator](https://www.cloud-calendars.com/tools/rotating-shift-schedule-ics-generator/) — Build a 90-day Pitman 2-2-3, four-on/four-off or 24/48 firefighter calendar. Preview your duty dates and download an ICS file for Apple Calendar, Google Calendar or Outlook.
+- [ICS file viewer and validator](https://www.cloud-calendars.com/tools/ics-file-viewer-and-validator/) — Open an iCalendar file or paste its text to see event titles, start dates and recurrence rules. Check the file structure before you import it.
+- [Merge ICS files and remove duplicate events](https://www.cloud-calendars.com/tools/ics-calendar-merger-and-deduplicator/) — Combine calendars in your browser. Match events by UID and recurrence ID, keep timezone definitions, and download one ICS file.
+- [iCalendar recurrence rule generator](https://www.cloud-calendars.com/tools/rrule-recurrence-rule-generator/) — Build an RRULE for a repeating event. Try every other week on Monday, or the last Friday of each month.
+- [Three-city meeting time planner](https://www.cloud-calendars.com/tools/multi-timezone-meeting-overlap-planner/) — Find a meeting hour that falls between 08:00 and 18:00 in three cities. Choose a date to account for daylight-saving changes.
+- [Working days between two dates](https://www.cloud-calendars.com/tools/business-working-days-date-calculator/) — Count weekdays and weekends, including both dates. Public holidays are counted as ordinary weekdays.
+- [Add to calendar link and ICS generator](https://www.cloud-calendars.com/tools/add-to-calendar-link-and-ics-generator/) — Create an event in UTC and get a Google Calendar link, an Outlook.com link and an ICS download for your invitation.
+- [ISO week number calculator](https://www.cloud-calendars.com/tools/iso-8601-week-number-calendar-lookup/) — Look up the ISO week and week-year for any date. ISO weeks start on Monday, and week 1 contains the first Thursday.
+- [Daily time-blocking calendar builder](https://www.cloud-calendars.com/tools/time-blocking-daily-schedule-builder/) — Turn a list of time blocks into calendar events for one day. Enter local start and end times, give each block a name, and download the ICS file.
+- [Meeting cost calculator](https://www.cloud-calendars.com/tools/meeting-cost-and-burn-rate-calculator/) — Estimate the staff cost of one meeting and of holding it weekly for 50 weeks, using headcount, duration and hourly cost.
+- [Five-field cron schedule explainer](https://www.cloud-calendars.com/tools/cron-expression-to-schedule-explainer/) — Read a five-field cron expression field by field. Check weekdays, ranges and step values before you schedule a job.
+- [Meeting availability in two time zones](https://www.cloud-calendars.com/tools/plain-text-availability-slot-formatter/) — Turn a UTC date and time into a plain-text email line showing both local dates, times and time zones.
 
-## 2026 Flagship Multi-Calendar & Competitor Guides
+## Shift calendars, widgets and calendar app comparisons
 
-- [12 Best Calendar Apps for iPhone, iPad & Web in 2026 (Tested)](https://www.cloud-calendars.com/articles/best-calendar-apps-for-iphone-ipad-and-web-2026/)
-- [Fantastical Pricing ($57–$84/yr) & 7 Best Alternatives in 2026](https://www.cloud-calendars.com/articles/fantastical-pricing-and-best-alternatives-2026/)
-- [Notion Calendar Review (2026): No Outlook/Exchange? Best Alternatives](https://www.cloud-calendars.com/articles/notion-calendar-cron-limits-outlook-icloud-alternatives-2026/)
-- [Morgen Calendar Pricing ($15–$30/mo) & Best Alternatives in 2026](https://www.cloud-calendars.com/articles/morgen-calendar-pricing-review-and-alternatives-2026/)
-- [Motion App Pricing ($29–$34/mo): Honest Review & Calmer Alternatives (2026)](https://www.cloud-calendars.com/articles/motion-ai-calendar-pricing-worth-it-alternatives-2026/)
-- [10 Best Sunsama Alternatives in 2026 (Without Paying $240/Year)](https://www.cloud-calendars.com/articles/sunsama-pricing-20-month-alternatives-daily-planning-2026/)
-- [Akiflow Pricing ($19–$34/mo) & Best iPhone/Web Alternatives (2026)](https://www.cloud-calendars.com/articles/akiflow-pricing-review-and-mobile-calendar-alternatives-2026/)
-- [Reclaim.ai Review & Pricing (2026): Best Multi-Calendar Alternatives](https://www.cloud-calendars.com/articles/reclaim-ai-dropbox-acquisition-outlook-icloud-alternatives-2026/)
-- [Amie Calendar Review & Pricing (2026): Aesthetic UI vs Full Outlook/iCloud Sync](https://www.cloud-calendars.com/articles/amie-so-calendar-pricing-and-outlook-alternatives-2026/)
-- [BusyCal vs Fantastical vs Cloud Calendars (2026): Sync, Weather & Web Access](https://www.cloud-calendars.com/articles/busycal-vs-fantastical-vs-cloud-calendars-apple-2026/)
-- [Calendly Free Plan Only Allows 1 Event Type: Best Alternatives (2026)](https://www.cloud-calendars.com/articles/calendly-free-tier-1-event-limit-free-booking-alternatives-2026/)
-- [Cal.com vs Calendly vs Built-In Calendar Booking Pages (2026 Guide)](https://www.cloud-calendars.com/articles/cal-com-vs-calendly-vs-built-in-calendar-booking-links-2026/)
-- [Best Shared Family Calendar Apps Without Banner Ads: TimeTree & Cozi Alternatives](https://www.cloud-calendars.com/articles/timetree-and-cozi-ads-vs-clean-shared-family-calendars-2026/)
-- [Structured App vs Full Multi-Calendar Month & Week Views on iPhone (2026)](https://www.cloud-calendars.com/articles/structured-daily-planner-vs-full-month-week-multi-calendar-2026/)
-- [FlowSavvy & Vimcal Alternatives (2026): Fast Web + iPhone Multi-Calendar](https://www.cloud-calendars.com/articles/flowsavvy-and-vimcal-alternatives-unified-calendar-2026/)
-- [Best Visual Calendar & Lock Screen Widgets for ADHD Time Blindness (2026)](https://www.cloud-calendars.com/articles/adhd-visual-calendar-and-time-blindness-widgets-iphone-2026/)
-- [Best Aesthetic & Readable iPhone Calendar Widgets for iOS 26 (2026)](https://www.cloud-calendars.com/articles/aesthetic-iphone-ipad-home-screen-calendar-widgets-2026/)
-- [How to Merge Google, Microsoft Outlook & iCloud Calendars Without Duplicates](https://www.cloud-calendars.com/articles/sync-google-outlook-and-icloud-calendar-without-duplicates-2026/)
-- [How to See Actual Event Titles (Not Tiny Dots!) in iPhone Month View](https://www.cloud-calendars.com/articles/iphone-month-view-show-event-titles-instead-of-dots-2026/)
-- [Best Calendar App With Live Hourly & 10-Day Weather Forecast Built In](https://www.cloud-calendars.com/articles/calendar-app-with-10-day-hourly-weather-forecast-built-in/)
-- [Apple Reminders + Calendar Time-Blocking Guide on iPhone & iPad (2026)](https://www.cloud-calendars.com/articles/apple-reminders-and-calendar-time-blocking-workflow-2026/)
-- [2-2-3 Pitman, 4-On/4-Off & DuPont 12-Hour Shift Calendar Guide (+ Free .ICS)](https://www.cloud-calendars.com/articles/2-2-3-pitman-and-dupont-12-hour-shift-calendar-setup-guide/)
-- [Co-Parenting 2-2-5-5, 2-2-3 & Week-On/Week-Off Shared Calendar Setup](https://www.cloud-calendars.com/articles/co-parenting-custody-2-2-5-5-alternating-weekend-calendar-guide/)
-- [RFC 5545 `RRULE` Cheat Sheet: Last Weekday, Biweekly & Quarterly Events](https://www.cloud-calendars.com/articles/rrule-rfc-5545-last-friday-biweekly-nth-weekday-examples/)
-- [Why `.ICS` Calendar Files Fail to Import in Google or Outlook (& Instant Check)](https://www.cloud-calendars.com/articles/fix-corrupted-ics-file-import-errors-google-outlook-apple/)
+- [24/48 firefighter roster with a local handover and ICS export](https://www.cloud-calendars.com/articles/24-48-firefighter-shift-calendar-ics-download/)
+- [Kelly days in a 24/48 rotation](https://www.cloud-calendars.com/articles/firefighter-24-48-kelly-day-calendar-pattern/)
+- [Pitman 2-2-3 schedule setup](https://www.cloud-calendars.com/articles/pitman-2-2-3-shift-schedule-calendar-setup/)
+- [DuPont 28-day rotation](https://www.cloud-calendars.com/articles/dupont-28-day-rotating-shift-calendar-cycle/)
+- [Home Screen and Lock Screen calendar widgets](https://www.cloud-calendars.com/compare/best-iphone-calendar-widgets-home-and-lock-screen/)
+- [Cloud Calendars and Fantastical](https://www.cloud-calendars.com/compare/cloud-calendars-vs-fantastical/)
+- [Cloud Calendars and Notion Calendar](https://www.cloud-calendars.com/compare/cloud-calendars-vs-notion-calendar-cron/)
